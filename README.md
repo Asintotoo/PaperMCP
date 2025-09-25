@@ -49,7 +49,7 @@ We welcome and encourage contributions to the **PaperMCP** project. If you would
 
 ## Credits
 
-- **[Asintoto](https://github.com/Asintotoo)**: Original idea and programming.
+- **[Asintoto](https://github.com/Asintotoo)**: Original idea and main developer.
 - **[MCP Declarative Java SDK](https://github.com/codeboyzhou/mcp-declarative-java-sdk)**: A lightweight library for working with MCP in Java, without which this plugin would not have been possible.
 
 We thank the MCP Declarative team for their work, which has been essential to the creation of this plugin.
