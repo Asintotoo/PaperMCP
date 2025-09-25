@@ -1,0 +1,6 @@
+name: PaperMCP
+version: '1.0.0-BETA-1'
+main: com.asintoto.papermcp.PaperMCP
+api-version: '1.21'
+authors: [ Asintoto ]
+description: PaperMC MCP Server

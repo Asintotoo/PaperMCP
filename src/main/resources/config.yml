@@ -1,0 +1,3 @@
+server-name: "papermcp-server"
+endpoint: "/mcp"
+port: 15000

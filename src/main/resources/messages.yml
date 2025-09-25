@@ -1,0 +1,21 @@
+error:
+  no-permission: "<red>You do not have permission to run this command"
+
+admin:
+  reload: "<green>Plugin reloaded"
+
+mcp:
+  success:
+    command-run: "Successfully executed the given command!"
+    player-message: "Successfully sent message to player %player%"
+    gamemode-changed: "Successfully changed gamemode for %player%"
+    server-info:
+      - "Server Version: %server_version%"
+      - "Server Port: %server_port%"
+      - "Java Version: %java_version%"
+      - "OS: %os%"
+      - "Memory: %memory%"
+      - "TPS: %tps%"
+  error:
+    player-not-found: "The player %player% does not exists. Cannot proceed further"
+    gamemode-not-found: "This gamemode does not exists. Cannot proceed further"
